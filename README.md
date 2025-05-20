@@ -34,8 +34,7 @@ Game Interface:
 
 
 ---
-
-## 🛠️ Technologies Used
+Technologies Used
 
 - **HTML5** – Markup
 - **CSS3** – Styling and layout
