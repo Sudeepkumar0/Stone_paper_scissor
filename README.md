@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0b7e2774-5eca-4a13-a886-dc3286d9a707)# ✊🖐✌️ Rock Paper Scissors Game
+✊🖐✌️ Rock Paper Scissors Game
 
 Welcome to the classic **Rock Paper Scissors Game**, now with a sleek modern UI and animated hand gesture icons! This is a simple yet engaging web game built with HTML, CSS, and JavaScript.
 
@@ -47,4 +47,4 @@ How to Run the Game
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
+   [git clone https://github.com/your-username/rock-paper-scissors.git](https://github.com/Sudeepkumar0/Stone_paper_scissor.git)
