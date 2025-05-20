@@ -48,3 +48,12 @@ How to Run the Game
 1. Clone the repository:
    ```bash
    [git clone https://github.com/your-username/rock-paper-scissors.git](https://github.com/Sudeepkumar0/Stone_paper_scissor.git)
+
+
+---
+Acknowledgements
+
+Thanks to the emoji hand gestures and inspiration from various UI designs across the web.
+
+**Made with ❤️ by Sudeep**
+
